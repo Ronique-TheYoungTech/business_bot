@@ -1,10 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Customizable chatbot solution for businesses to enhance customer interactions.
 =======
 # Chatbot for Small Businesses
 
 A pre-built chatbot designed for small businesses to answer frequently asked questions and enhance customer engagement.
 >>>>>>> b653cb5 (Initial commit)
+=======
+# Chatbot for Small Businesses
+
+A pre-built chatbot designed for small businesses to answer frequently asked questions and enhance customer engagement.
+>>>>>>> 6c021e9f3ae68828c88d4f5d6834dbd9588dbf62
 
 ---
 
@@ -16,6 +22,7 @@ A pre-built chatbot designed for small businesses to answer frequently asked que
 
 ---
 
+<<<<<<< HEAD
 ---
 
 ## Requirements
@@ -34,6 +41,9 @@ A pre-built chatbot designed for small businesses to answer frequently asked que
 
 
 =======
+=======
+## Requirements
+>>>>>>> 6c021e9f3ae68828c88d4f5d6834dbd9588dbf62
 - Python 3.8 or higher
 - Flask 2.0 or higher
 - SQLite3
@@ -45,4 +55,7 @@ A pre-built chatbot designed for small businesses to answer frequently asked que
 ### 1. Clone the Repository
 ```bash
 git https://github.com/Ronique-TheYoungTech/business_bot.git
+<<<<<<< HEAD
 >>>>>>> b653cb5 (Initial commit)
+=======
+>>>>>>> 6c021e9f3ae68828c88d4f5d6834dbd9588dbf62
